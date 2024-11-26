@@ -11,10 +11,7 @@ import java.sql.ResultSet;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Tran Nhat Sinh
- */
+
 public class PhienBanSanPhamDAO implements ChiTietInterface<PhienBanSanPhamDTO> {
 
     public static PhienBanSanPhamDAO getInstance() {
