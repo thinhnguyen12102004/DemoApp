@@ -41,10 +41,7 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Tran Nhat Sinh
- */
+
 public final class ThongKeTonKho extends JPanel implements ActionListener, KeyListener, PropertyChangeListener {
 
     PanelBorderRadius nhapxuat_left, nhapxuat_center;

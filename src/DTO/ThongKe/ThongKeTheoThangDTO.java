@@ -4,10 +4,7 @@
  */
 package DTO.ThongKe;
 
-/**
- *
- * @author robot
- */
+
 public class ThongKeTheoThangDTO {
     private int thang;
     private int chiphi;

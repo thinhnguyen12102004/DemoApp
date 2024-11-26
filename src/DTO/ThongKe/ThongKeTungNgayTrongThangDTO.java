@@ -3,10 +3,7 @@ package DTO.ThongKe;
 import java.util.Date;
 import java.util.Objects;
 
-/**
- *
- * @author robot
- */
+
 public class ThongKeTungNgayTrongThangDTO{
     private Date ngay;
     private int chiphi;

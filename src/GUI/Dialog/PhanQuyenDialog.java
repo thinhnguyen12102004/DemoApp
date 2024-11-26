@@ -32,10 +32,7 @@ import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 import javax.swing.border.EmptyBorder;
 
-/**
- *
- * @author Tran Nhat Sinh
- */
+
 public final class PhanQuyenDialog extends JDialog implements ActionListener {
 
     private JLabel lblTennhomquyen;

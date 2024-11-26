@@ -6,10 +6,7 @@ package DTO;
 
 import java.util.Objects;
 
-/**
- *
- * @author 84907
- */
+
 public class SanPhamDTO {
 
     private int masp;

@@ -2,10 +2,7 @@ package DTO;
 
 import java.util.Objects;
 
-/**
- *
- * @author robot
- */
+
 public class ChiTietKiemKeSanPhamDTO {
     private int maphieukiemke;
     private int maphienban;

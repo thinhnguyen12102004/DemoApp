@@ -25,10 +25,7 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Tran Nhat Sinh
- */
+
 public class ThongKeTongQuan extends JPanel {
 
     ThongKeBUS thongkebus;

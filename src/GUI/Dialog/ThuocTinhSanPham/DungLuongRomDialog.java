@@ -30,10 +30,7 @@ import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableColumnModel;
 import javax.swing.text.PlainDocument;
 
-/**
- *
- * @author 84907
- */
+
 public class DungLuongRomDialog extends JDialog implements MouseListener {
 
     HeaderTitle headTite;

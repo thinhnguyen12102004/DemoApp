@@ -8,10 +8,7 @@ import java.sql.Timestamp;
 import java.util.ArrayList;
 import java.util.Objects;
 
-/**
- *
- * @author andin
- */
+
 public class ThongKeKhachHangDTO {
     int makh;
     String tenkh;

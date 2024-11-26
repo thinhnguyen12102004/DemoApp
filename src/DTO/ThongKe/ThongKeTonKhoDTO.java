@@ -2,10 +2,7 @@ package DTO.ThongKe;
 
 import java.util.Objects;
 
-/**
- *
- * @author Tran Nhat Sinh
- */
+
 public class ThongKeTonKhoDTO {
 
     int masp;

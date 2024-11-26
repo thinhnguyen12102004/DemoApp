@@ -6,10 +6,7 @@ package DTO;
 
 import java.util.Objects;
 
-/**
- *
- * @author 84907
- */
+
 public class ChiTietPhieuDTO {
     private int maphieu;
     private int maphienbansp;

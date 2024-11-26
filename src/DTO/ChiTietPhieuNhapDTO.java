@@ -8,10 +8,6 @@ import DTO.ChiTietPhieuDTO;
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-/**
- *
- * @author Tran Nhat Sinh
- */
 public class ChiTietPhieuNhapDTO extends ChiTietPhieuDTO{
     private int phuongthucnnhap;
 
