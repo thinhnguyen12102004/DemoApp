@@ -10,10 +10,7 @@ import DTO.ChiTietQuyenDTO;
 import DTO.NhomQuyenDTO;
 import java.util.ArrayList;
 
-/**
- *
- * @author Tran Nhat Sinh
- */
+
 public class NhomQuyenBUS {
 
     private final NhomQuyenDAO nhomquyenDAO = new NhomQuyenDAO();
