@@ -10,10 +10,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.ArrayList;
 
-/**
- *
- * @author Tran Nhat Sinh
- */
+
 public class MauSacDAO implements DAOinterface<MauSacDTO> {
 
     public static MauSacDAO getInstance() {
