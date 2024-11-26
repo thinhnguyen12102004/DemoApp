@@ -13,10 +13,7 @@ import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Tran Nhat Sinh
- */
+
 public class PhieuXuatDAO implements DAOinterface<PhieuXuatDTO> {
     
     public static PhieuXuatDAO getInstance(){
